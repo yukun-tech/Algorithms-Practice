@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/yukun-tech/Algorithms-Practice/tree/master/0284-peeking-iterator) |
+| [0334-increasing-triplet-subsequence](https://github.com/yukun-tech/Algorithms-Practice/tree/master/0334-increasing-triplet-subsequence) |
 ## Design
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yukun-tech/Algorithms-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/yukun-tech/Algorithms-Practice/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
